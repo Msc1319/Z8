@@ -1,4 +1,4 @@
-zphisher
+
 <i>Any actions and or activities related to <b>Zphisher</b> is solely your responsibility. The misuse of this toolkit can result in <b>criminal charges</b> brought against the persons in question. <b>The contributors will not be held responsible</b> in the event any criminal charges be brought against any individuals misusing this toolkit to break the law.
 
 <b>This toolkit contains materials that can be potentially damaging or dangerous for social media</b>. Refer to the laws in your province/country before accessing, using,or in any other way utilizing this in a wrong way.
@@ -85,7 +85,7 @@ engineering. Gathering information like username and password.
 
 ![image alt](https://github.com/Msc1319/Z8/blob/b1c1f0de6742298244c5df5a8d95eb5b87280599/Z6/1.1.png)
 
-![image alt]()
+![image alt](https://github.com/Msc1319/Z8/blob/f7d0e54f1e61246b37756956d1627ad30fb52dfc/Z6/3.3.png)
 
 ![image alt]()
 
