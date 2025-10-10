@@ -55,29 +55,8 @@ engineering. Gathering information like username and password.
 
 
 
-- Step 1:- Open browser and search z phisher.
-- Step 2: - Click link above shown
-- Step 3: - click < > code and copy the code
-- Step 4:- Open terminal
-- Step 5: - git clone paste link
-- Step 6: - cd zphisher
-- Step 7: - ls
-- Step 8: - ./zphisher.sh OR bash zphisher.sh
-- Step 9: - Select an option: 2
-- Step 10: - Select an option: 01
-- For Localhost
-- Step 11: - Select a port forwarding service  01
-- Step 12: - Click link
-- When victim fill own information, we can see on terminal
-- Step 13: - Back to terminal
-- Step 14: - For exit press Ctrl + c
-- For Internet by using Port forwarding
-- Step 15: - Select a port forwarding service: 03
-- Step 16: - Make LocalXpose account and Copy loclx Token and paste the TokenStep 15: - Share Any URL
-- THESE STEPS ARE FOR VICTIM
-- Step 17: - Click visit
-- When victim fill own information, we can see on terminal
-- Step 18: - For exit press Ctrl + c
+- Step 1:- Open browser and search z phisher
+  
 
 ##
 
@@ -85,27 +64,96 @@ engineering. Gathering information like username and password.
 
 ![image alt](https://github.com/Msc1319/Z8/blob/b1c1f0de6742298244c5df5a8d95eb5b87280599/Z6/1.1.png)
 
+
+- Step 2: - Click link above shown
+- Step 3: - click < > code and copy the code
+
+  
 ![image alt](https://github.com/Msc1319/Z8/blob/f7d0e54f1e61246b37756956d1627ad30fb52dfc/Z6/3.3.png)
+
+
+- Step 4:- Open terminal
+- Step 5: - git clone paste link
 
 ![image alt](https://github.com/Msc1319/Z8/blob/138954a848b0ea6fe80d6f3e002fde11042d025a/Z6/4.png)
 
+
+
+- Step 6: - cd zphisher
+- Step 7: - ls
+- Step 8: - ./zphisher.sh OR bash zphisher.sh
+
 ![image alt](https://github.com/Msc1319/Z8/blob/8f4e351aecc4ee64179740aff78c7ec84136e935/Z6/5.png)
 
+
+- Step 9: - Select an option  2
+
+  
 ![image alt](https://github.com/Msc1319/Z8/blob/12450ca7bc03325c8ce7eef54b917a0f39dc519f/Z6/6.png)
+
+
+
+- Step 10: - Select an option 01
+
+
 
 ![image alt](https://github.com/Msc1319/Z8/blob/ef0953e0ccca7bc3e161ea0dcf58b9108ff0d860/Z6/7.png)
 
+
+
+### For Localhost
+- Step 11: - Select a port forwarding service  01
+
+
+  
 ![image alt](https://github.com/Msc1319/Z8/blob/04ea80919a98fad2d2c38dd2e64446a0e52dd071/Z6/8.png)
 
-![image alt](https://github.com/Msc1319/Z8/blob/4d90b1240404f894e4af936a4c1e4fed0c2746eb/Z6/9.png)
 
+- Step 12: - Click link
+![image alt](https://github.com/Msc1319/Z8/blob/4d90b1240404f894e4af936a4c1e4fed0c2746eb/Z6/9.png)
+  ### When victim fill own information, we can see on terminal
+
+  - Step 13: - Back to terminal
+
+
+    
 ![image alt](https://github.com/Msc1319/Z8/blob/eca546695f3f4f6848098d69a7416c3cbfa55195/Z6/10.png)
 
+
+
+- Step 14: - For exit press Ctrl + c
+### For Internet by using Port forwarding
+
+  
 ![image alt](https://github.com/Msc1319/Z8/blob/6deab5c984878cc75ec3b8e587253663203d5b20/Z6/11.png)
 
-![image alt](https://github.com/Msc1319/Z8/blob/fb18a4b094d425263dde4d6445477ba506842c80/Z6/12.png)
 
+- Step 15: - Select a port forwarding service 03
+![image alt](https://github.com/Msc1319/Z8/blob/fb18a4b094d425263dde4d6445477ba506842c80/Z6/12.png)
+- Step 16: - Make LocalXpose account and Copy loclx Token and paste the Token
+
+
+  
 ![image alt](https://github.com/Msc1319/Z8/blob/c116828520e14db588b9db42307d34e837fe00f2/Z6/14.png)
+
+
+
+- Step 17: - Share Any URL
+### THESE STEPS ARE FOR VICTIM
+- Step 18: - Click visit
+### When victim fill own information, we can see on terminal
+
+
+
+
+
+
+
+
+
+
+
 
 ![image alt](https://github.com/Msc1319/Z8/blob/976d2154e74776e9053b61debf6eed18a90c620c/Z6/15.png)
 
+- Step 19: - For exit press Ctrl + c
