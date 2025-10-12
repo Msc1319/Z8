@@ -1,4 +1,5 @@
-## PROJECT 
+## PROJECT 1
+## By - AMAN KUSHWAHA
 
  
 
@@ -84,7 +85,7 @@ Verify that the decrypted message is the same as the original message entered in
 
 
 ### PROJECT 2
-MRIGENDRA SINGH CHAUAN
+## By - MRIGENDRA SINGH CHAUAN
 
 
 
@@ -253,8 +254,8 @@ engineering. Gathering information like username and password.
 
 
 
-PROJECT 3 
-BHOOMI SINGH
+### PROJECT 3 
+## By - BHOOMI SINGH
 
 
 
