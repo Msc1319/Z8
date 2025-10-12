@@ -157,7 +157,7 @@ engineering. Gathering information like username and password.
 
 - Step 19: - For exit press Ctrl + c
 
-  BHOOMI
+
 
 
 
