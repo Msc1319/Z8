@@ -143,7 +143,7 @@ Verify that the decrypted message is the same as the original message entered in
 
 
 ### PROJECT 2
-## By - MRIGENDRA SINGH CHAUAN
+## By - MRIGENDRA SINGH CHAUHAN
 
 
 
