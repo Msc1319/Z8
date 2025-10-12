@@ -153,12 +153,20 @@ engineering. Gathering information like username and password.
 
 
 
-
-
-
-
-
-
 ![image alt](https://github.com/Msc1319/Z8/blob/976d2154e74776e9053b61debf6eed18a90c620c/Z6/15.png)
 
 - Step 19: - For exit press Ctrl + c
+
+
+
+
+
+
+
+
+
+
+
+
+
+
