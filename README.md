@@ -397,6 +397,127 @@ Image File: Any .png or .jpg file.
  
 ![IMG-20251012-WA0071](https://github.com/user-attachments/assets/b4c35d73-5384-4c98-b6a9-26dc63e09f7a)
 
+### PROJECT 4
+### BY ADITYA SINGH
+
+<i>Any actions and or activities related to <b>MEDUSAPHISHER</b> is solely your responsibility. The misuse of this toolkit can result in <b>criminal charges</b> brought against the persons in question. <b>The contributors will not be held responsible</b> in the event any criminal charges be brought against any individuals misusing this toolkit to break the law.
+
+<b>This toolkit contains materials that can be potentially damaging or dangerous for social media</b>. Refer to the laws in your province/country before accessing, using,or in any other way utilizing this in a wrong way.
+
+<b>This Tool is made for educational purposes only</b>. Do not attempt to violate the law with anything contained here. <b>If this is your intention, then Get the hell out of here</b>!
+
+It only demonstrates "how phishing works". <b>You shall not misuse the information to gain unauthorized access to someones social media</b>. However you may try out this at your own risk.</i>
+
+
+
+
+##
+
+### Features
+
+- Latest and updated login pages.
+- Beginners friendly
+- Multiple tunneling options
+  - Localhost
+  - Cloudflared
+  - LocalXpose
+- Mask URL support 
+- Docker support
+
+##
+
+### Installation
+
+
+- Just, Clone this repository -
+  ```
+  git clone --depth=1 https://github.com/Adrilaw/MedusaPhisher.git
+  ```
+
+- Now go to cloned directory and run `MedusaPhisher.sh` -
+  ```
+  $ cd MedusaPhisher
+
+  $ bash MedusaPhisher.sh
+  ```
+
+
+##
+### Practical-1
+
+
+
+- Practical: Using MedusaPhisher for Phishing Attack / Social
+Engineering.
+- Definition: MedusaPhisher is tool used to phishing attack or social
+engineering. Gathering information like username and password.
+
+
+
+
+
+- Step 1:- Open browser and search MedusaPhisher
+  
+
+##
+
+
+
+<img width="1706" height="1059" alt="Screenshot 2025-10-12 203444" src="https://github.com/user-attachments/assets/e648cc5b-2c5c-45ce-9bc3-263989ea6f54" />
+
+
+- Step 2: - Click link above shown
+- Step 3: - click < > code and copy the code
+
+  
+<img width="1833" height="1062" alt="Screenshot 2025-10-12 203513" src="https://github.com/user-attachments/assets/58587347-82f1-418c-b357-547c99fb432c" />
+
+
+- Step 4:- Open terminal
+- Step 5: - git clone paste link
+- Step 6: - cd MedusaPhisher
+- Step 7: - ls
+- Step 8: - ./medusa_phisher.sh OR bash medusa_phisher.sh
+
+<img width="1280" height="675" alt="VirtualBox_kali-linux-2025 3-virtualbox-amd64_12_10_2025_20_36_18" src="https://github.com/user-attachments/assets/11399d3b-04a8-4c48-bed7-7ada588df190" />
+
+- Step 9: Choose the phishing page you want to make
+- Step 10: choose option 1
+- step 11: choose yes for default port
+
+<img width="1280" height="675" alt="VirtualBox_kali-linux-2025 3-virtualbox-amd64_12_10_2025_20_27_43" src="https://github.com/user-attachments/assets/fdfe9d56-a2cb-472c-a6af-27bd78cd1889" />
+
+
+
+- Step 12: Scan the QR
+
+
+<img width="1280" height="675" alt="VirtualBox_kali-linux-2025 3-virtualbox-amd64_12_10_2025_20_28_21" src="https://github.com/user-attachments/assets/05ec31f9-d4d1-42bf-ae83-0a51008aa70b" />
+
+
+
+- step 13: Fake Phishing page is ready
+- Step 14: Fill the credentials
+
+
+![WhatsApp Image 2025-10-12 at 20 00 46](https://github.com/user-attachments/assets/0d42135c-3111-4efe-a294-048d4e14794e)
+
+- Step 15: Back to terminal
+ ### When victim fill own information, we can see on terminal
+
+- <img width="1280" height="675" alt="VirtualBox_kali-linux-2025 3-virtualbox-amd64_12_10_2025_20_29_27" src="https://github.com/user-attachments/assets/7af5f963-19a8-4e39-a039-8090caa9dc7f" />
+
+- 
+
+
+- Step 16: - For exit press Ctrl + c
+
+- Aditya Singh
+- roll no- 07
+- FCS project BCACS11
+  
+
+
  
 
 
