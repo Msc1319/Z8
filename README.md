@@ -1,10 +1,11 @@
 <h1 align="center">BABU BANARASI DAS UNIVERSITY</h1>
-![bbdu](https://github.com/user-attachments/assets/68e7c79d-1ab5-49f2-b753-4c63ab5b183b)
+
+
 <h2 align="center">SCHOOL OF ENGINEERING</h2>
-<h3 align="center">Department of Computer Science & Engineering</h3>
-<h2 align="center">PRIVACY AND SECURITY IN IOT LAB</h2>
-<h3 align="center">(ITBC3751)</h3>
-<h3 align="center">Session 2025â€“26</h3>
+<h3 align="center">School Of Computer Application</h3>
+<h2 align="center">IBM Project</h2>
+<h3 align="center"></h3>
+<h3 align="center">Session 2025-26</h3>
 ---
 <h2 align="center">PRACTICAL LAB FILE</h2>
 ---
