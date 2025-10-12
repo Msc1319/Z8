@@ -363,22 +363,24 @@ Image File: Any .png or .jpg file.
  
 ![IMG-20251012-WA0067](https://github.com/user-attachments/assets/e58e5c0e-50e3-4b6c-bd2c-3c2d58f3ecde)
 
- 
+
+ - Step-2 Insert image in folder in which secret message we want to hide and send it to receiver. 
+
 ![IMG-20251012-WA0070](https://github.com/user-attachments/assets/5385af06-4d85-406a-9c17-4b96163bba96)
 
  
 
 
- 
+- Step-3 Open the folder in terminal.  
 
 
 
-- Step-2 Insert image in folder in which secret message we want to hide and send it to receiver. 
+
 ![IMG-20251012-WA0068](https://github.com/user-attachments/assets/2a0b0f74-2b8d-462d-8367-6ae6dbe671cb)
 
  
 
-- Step-3 Open the folder in terminal. 
+
 
  
 ![IMG-20251012-WA0069](https://github.com/user-attachments/assets/74fed4df-6dcd-46bb-a54e-ac230132d5ba)
