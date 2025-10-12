@@ -1,3 +1,24 @@
+### BABU BANARASI DAS UNIVERSITY 
+
+## SCHOOL OF ENGINEERING  
+
+## School Of Computer Application 
+
+ 
+## Session 2025-26 
+## PRACTICAL LAB FILE  
+
+## SUBMITTED BY :-                      SUBMITTED TO :- 
+
+NAME – Aman Kushwaha                 Mr. Anand Kumar 
+       Mrigendra Singh Chauhan
+       Aditya Singh
+       Bhoomi Singh
+SECTION –  BCACS11
+
+ROLL NO -  
+
+
 ## PROJECT 1
 ## By - AMAN KUSHWAHA
 
