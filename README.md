@@ -1,7 +1,8 @@
 <h1 align="center">BABU BANARASI DAS UNIVERSITY</h1>
+<img width="317" height="342" alt="499192281-d04d3bd4-9e88-4e5c-9612-8bfa0271a68c" src="https://github.com/user-attachments/assets/40332ca3-c9a2-44ef-9bca-8e2410e41b60" />
 
 
-<h2 align="center">SCHOOL OF ENGINEERING</h2>
+<h2 align="center">SCHOOL OF COMPUTER APPLICATION</h2>
 <h3 align="center">School Of Computer Application</h3>
 <h2 align="center">IBM Project</h2>
 <h3 align="center"></h3>
