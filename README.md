@@ -1,4 +1,85 @@
+## PROJECT 
 
+ 
+
+## RSA Encryption and Decryption 
+
+ 
+
+## Definition: -> 
+
+CRSA encryption is the process of converting plaintext into ciphertext using a public key. It ensures that only the intended recipient, who holds the private key, can decrypt the message. 
+
+ 
+
+ 
+
+## Required Tools : -> 
+
+Laptop/PC with Internet connection 
+Web browser (Google Chrome, Microsoft Edge, Mozilla Firefox, etc.) 
+
+RSA Encryption/Decryption Tool (https://www.devglan.com/online-tools/rsa-encryption- decryption) 
+
+A sample text message to test encryption and decryption 
+
+## Working : -> 
+
+- Step 1: Open a web browser on your laptop/PC. In the address bar, type the following URL and press Enter: https://www.devglan.com/online-tools/rsa-encryption- decryption 
+
+ 
+
+This will open the RSA Encryption and Decryption online tool. 
+
+- Step 2: Scroll down to the section 'Generate RSA Key Pair'. 
+
+Click on the button 'Generate RSA Key Pair'. 
+
+The tool will generate a Public Key and a Private Key. 
+
+Ink 12, ShapeInk 11, ShapeInk 9, ShapeInk 8, ShapeThese keys are required for encryption and decryption. 
+
+Ink 2, Shape 
+
+ 
+
+ 
+
+- Step 3: Scroll down to the 'Encrypt' section of the tool. 
+
+In the input text box, type a sample message (for example: 'Hello RSA Encryption'). 
+
+Now click on the 'Encrypt' button. 
+
+- Step 4: Once you click on Encrypt, the tool will generate an encrypted message, also called the Ciphertext. 
+
+This ciphertext is unreadable and can only be decrypted using the corresponding Private Key. 
+
+Copy this encrypted text. 
+
+- Step 5: Scroll further down to the 'Decrypt' section of the tool. 
+
+Paste the ciphertext (from Step 4) into the Ciphertext input box. 
+
+Now click on the 'Decrypt' button. 
+
+- Step 6: After clicking on Decrypt, the tool will display the original plain text message. 
+
+Verify that the decrypted message is the same as the original message entered in Step 3. 
+
+
+ - Step 7: Conclusion – Through this practical, we have successfully generated RSA keys, encrypted a sample message using the Public Key, and decrypted the ciphertext back to the original message using the Private Key. 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
 
 
 
