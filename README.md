@@ -1,4 +1,12 @@
 
+
+
+
+### PROJECT 2
+MRIGENDRA SINGH CHAUAN
+
+
+
 <i>Any actions and or activities related to <b>Zphisher</b> is solely your responsibility. The misuse of this toolkit can result in <b>criminal charges</b> brought against the persons in question. <b>The contributors will not be held responsible</b> in the event any criminal charges be brought against any individuals misusing this toolkit to break the law.
 
 <b>This toolkit contains materials that can be potentially damaging or dangerous for social media</b>. Refer to the laws in your province/country before accessing, using,or in any other way utilizing this in a wrong way.
@@ -42,7 +50,7 @@ It only demonstrates "how phishing works". <b>You shall not misuse the informati
 
 
 ##
-### Practical-4
+
 
 
 
@@ -157,6 +165,108 @@ engineering. Gathering information like username and password.
 
 - Step 19: - For exit press Ctrl + c
 
+
+
+
+
+
+
+
+PROJECT 3 
+BHOOMI SINGH
+
+
+
+
+## USING CMD SEND SECRET MESSAGE 
+
+ 
+
+## Definition: 
+
+This method involves embedding or appending a hidden text message inside an image file using the Windows Command Prompt. The image remains viewable normally, but when opened with a text editor (like Notepad), the hidden message becomes visible at the end of the file’s binary data. This is a simple form of steganography — the practice of hiding information within other files. 
+
+ 
+
+## Learning Outcomes: 
+
+After completing this activity, the learner will be able to: 
+
+Understand the concept of file concatenation and steganography. 
+
+Use basic CMD commands like echo and type to manipulate files. 
+
+Embed and retrieve hidden messages in image files using the command line. 
+
+Recognize how data can be stored or concealed within media files. 
+
+Develop awareness of information hiding and data security concepts. 
+
+ 
+
+## Required Tools: 
+
+Operating System: Windows (any version supporting CMD). 
+
+Command Prompt (CMD): Built-in terminal for executing commands. 
+
+A Text Editor: Notepad (to view hidden message). 
+
+Image File: Any .png or .jpg file. 
+
+ 
+
+## Working: 
+
+- Step-1 Create a folder 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+- Step-2 Insert image in folder in which secret message we want to hide and send it to receiver. 
+
+ 
+
+- Step-3 Open the folder in terminal. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+- Step-4 Write ls to see the image in folder, then write the echo “The secret message ” >> image.png (The name of image with extension ), then press enter. 
+
+ 
+
+ 
+
+- Step-5 Now open the image the notepad and scroll all the way down to see the secret message written there.  
+
+ 
+
+ 
+
+ 
 
 
 
