@@ -379,7 +379,9 @@ Image File: Any .png or .jpg file.
 ![IMG-20251012-WA0068](https://github.com/user-attachments/assets/2a0b0f74-2b8d-462d-8367-6ae6dbe671cb)
 
  
+ 
 
+- Step-4 Write ls to see the image in folder, then write the echo “The secret message ” >> image.png (The name of image with extension ), then press enter. 
 
 
  
@@ -389,16 +391,14 @@ Image File: Any .png or .jpg file.
 
  
 
- 
+- Step-5 Now open the image the notepad and scroll all the way down to see the secret message written there.  
 
-- Step-4 Write ls to see the image in folder, then write the echo “The secret message ” >> image.png (The name of image with extension ), then press enter. 
 
  
 ![IMG-20251012-WA0071](https://github.com/user-attachments/assets/b4c35d73-5384-4c98-b6a9-26dc63e09f7a)
 
  
 
-- Step-5 Now open the image the notepad and scroll all the way down to see the secret message written there.  
 
  
 
