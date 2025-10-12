@@ -55,6 +55,9 @@ A sample text message to test encryption and decryption
 
 This will open the RSA Encryption and Decryption online tool. 
 
+![IMG-20251012-WA0107](https://github.com/user-attachments/assets/16f255ec-7d3c-40ce-98f3-3cf393d9f5e1)
+
+
 - Step 2: Scroll down to the section 'Generate RSA Key Pair'. 
 
 Click on the button 'Generate RSA Key Pair'. 
@@ -66,6 +69,7 @@ Ink 12, ShapeInk 11, ShapeInk 9, ShapeInk 8, ShapeThese keys are required for en
 Ink 2, Shape 
 
  
+![IMG-20251012-WA0108](https://github.com/user-attachments/assets/87ff7384-c8d0-4e39-88a7-31f1d8490c0f)
 
  
 
@@ -75,11 +79,21 @@ In the input text box, type a sample message (for example: 'Hello RSA Encryption
 
 Now click on the 'Encrypt' button. 
 
+
+![IMG-20251012-WA0109](https://github.com/user-attachments/assets/d21cc3ff-cfdd-4333-8b05-fa1ca2390179)
+
+
+
 - Step 4: Once you click on Encrypt, the tool will generate an encrypted message, also called the Ciphertext. 
 
 This ciphertext is unreadable and can only be decrypted using the corresponding Private Key. 
 
 Copy this encrypted text. 
+
+
+![IMG-20251012-WA0110](https://github.com/user-attachments/assets/16e21869-aa75-4324-9c16-5fd613198005)
+
+
 
 - Step 5: Scroll further down to the 'Decrypt' section of the tool. 
 
@@ -87,9 +101,15 @@ Paste the ciphertext (from Step 4) into the Ciphertext input box.
 
 Now click on the 'Decrypt' button. 
 
+
+![IMG-20251012-WA0111](https://github.com/user-attachments/assets/3ad36149-5e28-421f-ba5f-700ea3b0ce1a)
+
+
+
 - Step 6: After clicking on Decrypt, the tool will display the original plain text message. 
 
 Verify that the decrypted message is the same as the original message entered in Step 3. 
+![IMG-20251012-WA0112](https://github.com/user-attachments/assets/c9cc7eea-b307-4850-af8f-5ebc2483c833)
 
 
  - Step 7: Conclusion – Through this practical, we have successfully generated RSA keys, encrypted a sample message using the Public Key, and decrypted the ciphertext back to the original message using the Private Key. 
