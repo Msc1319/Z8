@@ -36,7 +36,7 @@
 | 3 | Steganography using CMD | | |
 | 4 | Open Stego | | |
 
-## PROJECT 1
+## PROJECT-1
 ## By - AMAN KUSHWAHA
 
  
@@ -142,8 +142,11 @@ Verify that the decrypted message is the same as the original message entered in
 
 
 
-### PROJECT 2
+### PROJECT-2
 ## By - MRIGENDRA SINGH CHAUHAN
+
+
+## ZPHISHER
 
 
 
@@ -210,7 +213,7 @@ engineering. Gathering information like username and password.
 
 
 
-![image alt](https://github.com/Msc1319/Z8/blob/b1c1f0de6742298244c5df5a8d95eb5b87280599/Z6/1.1.png)
+![image alt](httPractical-.com/Msc1319/Z8/blob/b1c1f0de6742298244c5df5a8d95eb5b87280599/Z6/1.1.png)
 
 
 - Step 2: - Click link above shown
