@@ -22,6 +22,7 @@
 - Mrigendra Singh Chauhan
 - Aditya Singh
 - Bhoomi Singh
+- Vaibhav Dixit
 ## SECTION –
 - BCACS11
 
@@ -30,6 +31,7 @@
 - 1250264057
 - 1250264035
 - 1250264007
+- 1250264078
 
 
 
