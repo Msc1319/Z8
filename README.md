@@ -551,8 +551,9 @@ Step 2.
 
 
  
-![vp-2](https://github.com/user-attachments/assets/7f304830-9c45-4167-a54b-3948c816c31b
-)Step 4:
+![vp-2](https://github.com/user-attachments/assets/7f304830-9c45-4167-a54b-3948c816c31b)
+
+Step 4:
 1 Hide the Image
 2. Click on the Hide Data button.
 3. The software will generate a stego image (cover + secret combined).
