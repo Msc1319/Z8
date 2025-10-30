@@ -523,13 +523,54 @@ engineering. Gathering information like username and password.
 
 - Step 16: - For exit press Ctrl + c
 
-- Aditya Singh
-- roll no- 07
-- FCS project BCACS11
+- ### Project-5
+- ## By Vaibhav Dixit
+- ## Open stego
+
+- ##Procedure
+Step 1: Download OpenStego
+1. Open Google Chrome.
+2. Search and download OpenStego from the official website.
+3. Install the software on your system.
+
+  ![vp-1](https://github.com/user-attachments/assets/7859c825-14bf-4c2f-a1a6-aaf0d47302ec)
+
   
+
+  
+Step 2:
+1 Open OpenStego
+1. Launch the OpenStego application.
+2. Choose the option Data Hiding (default).
+ 
+Step 2.
+1 Select Files
+2 In the Input File option → select the Secret Image.
+3. In the Cover File option → select the Cover Image.
+4 In the Output Stego File option → give a name (e.g, Complete.png)
 
 
  
+![vp-2](https://github.com/user-attachments/assets/7f304830-9c45-4167-a54b-3948c816c31b
+)Step 4:
+1 Hide the Image
+2. Click on the Hide Data button.
+3. The software will generate a stego image (cover + secret combined).
+
+
+![vp-3](https://github.com/user-attachments/assets/bd8ef1d6-ab7a-4296-84e8-95a74569f84b)
+
+
+Step 5: Extract the Hidden Image (Verification)
+1. To verify, go to Extract Data option in OpenStego.
+2. Select the stego image as Input File.
+3. Choose an Output Folder.
+4. Click Extract Data → your secret image will be revealed.
+
+![vp-4](https://github.com/user-attachments/assets/c03f9343-abbb-4036-8f37-b138ca071dc1)
+
+ 
+
 
 
  
