@@ -523,11 +523,11 @@ engineering. Gathering information like username and password.
 
 - Step 16: - For exit press Ctrl + c
 
-- ### Project-5
-- ## By Vaibhav Dixit
-- ## Open stego
+- ## Project-5
+- ### By Vaibhav Dixit
+- ### Open stego
 
-- ##Procedure
+- ### Procedure
 Step 1: Download OpenStego
 1. Open Google Chrome.
 2. Search and download OpenStego from the official website.
