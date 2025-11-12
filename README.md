@@ -18,8 +18,8 @@
 ## SUBMITTED BY :-                      SUBMITTED TO :- 
 -                                       Mr. Anand Kumar 
 ## NAME –
-- Aman Kushwaha                       
-- Mrigendra Singh Chauhan
+- Mrigendra Singh Chauhan                       
+- Aman Kushwaha
 - Aditya Singh
 - Bhoomi Singh
 - Vaibhav Dixit
